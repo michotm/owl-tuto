@@ -20,6 +20,7 @@ yarn-error.log*
 #ide's
 .vscode
 .idea
+.history
 
 node_modules
 
